@@ -20,3 +20,5 @@
 ### Итоговый результат
 
 ![](best_submission.png)
+
+![](submission_details.png)
